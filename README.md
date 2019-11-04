@@ -1,11 +1,5 @@
 # java-script-tuitorial
 
- 
-
-Java Script
-04-11-19
-─
-Rabi Sankar
 Javascript WAR start!
 Now a days javascript is very famous language. If you learn js there is on one who can stop you. 
 Goals
@@ -26,3 +20,7 @@ Final project
 Create one awesome project
 KT on javascript
 Guide some to learn js.
+
+
+─
+Rabi Sankar
